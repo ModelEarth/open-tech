@@ -26,12 +26,14 @@ __Looking for resources to get started in Open Sustainable Technology? Here you 
 - [Fundamentals of Remote Sensing](https://appliedsciences.nasa.gov/join-mission/training/english/fundamentals-remote-sensing) - Participants will have a basic understanding of NASA satellites, sensors, data, tools, portals and applications to environmental monitoring and management.
 - [Building DC Energy Systems](https://learn.libre.solar/) - Hosts an Open Educational Resource (OER) for Building DC Energy Systems.
 - [The General Circulation of the Atmosphere](https://nordicesmhub.github.io/GEO4962/) - The course gives a broad overview about the general circulation of the atmosphere, including the tropospheric and stratospheric circulations. 
-
-## Study Programs 
-
-- [Sustainable Energy Technology](https://www.academy.rwth-aachen.de/en/index/education-formats/summer-schools/sustainable-energy-technology) - The Summer School explores sustainable energy technologies, such as building performance simulation, methods for energy supply of buildings, and energy trading and power plant management.
-- [SustainabilityDegrees](https://www.sustainabilitydegrees.com/) - Get access to leading sustainability degrees, sustainable careers of the future, excellent learning resources, and an understanding of what sustainability really means.
-- [Sustainable Business and Technology](https://www.umwelt-campus.de/studium/studienangebot-weiterbildung/bachelor/sustainable-business-and-technology-beng) - This interdisciplinary bachelor program at Germany's most sustainability-oriented university incorporates all aspects necessary to meet the demand of young students seeking a global perspective at the edge between business and technology.
-- [M.Sc. Sustainable Urban Technologies](https://www.uni-due.de/urbane-systeme/master_sustainable-urban-technologies_en.shtml) - Technology in the Context of Sustainable Urban Systems.
-- [Sustainable Bioprocess Technology](https://www.hs-furtwangen.de/en/programmes/sustainable-bioprocess-technology-master/) - Manufacture environmentally friendly products which are economical on resources.
-- [State University of New York - College of Environmental Science and Forestry](https://www.esf.edu/) - The oldest specialized doctoral-degree granting institution in the U.S that focuses on environmental sustainability.
+- [The Climate Laboratory](https://github.com/brian-rose/ClimateLaboratoryBook) - A hands-on approach to climate physics and climate modeling.
+- [Objective Analysis in Atmospheric Sciences](https://github.com/eabarnes1010/ats655-coursematerial) - The course provides an overview of the methods used to interpret data sets in the atmospheric and oceanic sciences.
+- [Python for Atmosphere and Ocean Scientists](https://github.com/carpentrieslab/python-aos-lesson) - Contains the Data Carpentry lesson materials for a single day workshop on using python in the atmosphere and ocean sciences.
+- [Photovoltaics Education Website](https://www.pveducation.org/) - A detailed deep dive to get started with photovolatic technology.
+- [Spatial data science for sustainable development](https://sustainability-gis.readthedocs.io/en/latest/) - Introduces geographical and computational analysis approaches to study sustainability related questions.  
+- [Climate Risks Academy 2021](https://github.com/danielhuppmann/climate-risks-academy-2021) - Contains solutions for the advanced assignment of the Modelling Lab of the Climate Risks Academy 2021.
+- [SDG Academy](https://sdgacademy.org/courses/) - Education platform of the Sustainable Development Solutions Network (SDSN), a global initiative for the United Nations.
+- [PVSC48-Python-Tutorial](https://github.com/PVSC-Python-Tutorials/PVSC48-Python-Tutorial) - Computing tutorial with focus on PV computing packages, Python, data wrangling with Pandas, and data viz.
+- [Power Systems Optimization](https://github.com/east-winds/power-systems-optimization) - How to implement and apply linear and mixed integer linear programs to solve such problems using Julia/JuMP, and the practical application of such techniques in energy systems engineering.
+- [Advanced Urban Analytics](https://github.com/gboeing/ppd599) - This course series takes a computational social science approach to working with urban data.
+- [PyEarthScience](https://github.com/KMFleischer/PyEarthScience) - Python modules, scripts and iPython notebooks, in particular for Earth System data processing and visualization used in climate science.
