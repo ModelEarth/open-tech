@@ -1,3 +1,9 @@
+---
+hide:
+  - navigation
+  - toc
+---
+
 <!--lint ignore awesome-toc awesome-contributing awesome-badge -->
 # Open Educational Resources on Sustainable Technology
 
@@ -37,3 +43,17 @@ __Looking for resources to get started in Open Sustainable Technology? Here you 
 - [Power Systems Optimization](https://github.com/east-winds/power-systems-optimization) - How to implement and apply linear and mixed integer linear programs to solve such problems using Julia/JuMP, and the practical application of such techniques in energy systems engineering.
 - [Advanced Urban Analytics](https://github.com/gboeing/ppd599) - This course series takes a computational social science approach to working with urban data.
 - [PyEarthScience](https://github.com/KMFleischer/PyEarthScience) - Python modules, scripts and iPython notebooks, in particular for Earth System data processing and visualization used in climate science.
+- [Predicting the Wind: Data Science in Wind Resource Assessment](https://github.com/flrs/predicting_the_wind) - Contains material for a hands-on tutorial and additional content about data science in wind resource assessment.
+- [2020_ICESat-2_Hackweek_Tutorials](https://github.com/ICESAT-2HackWeek/2020_ICESat-2_Hackweek_Tutorials) - Combined repository for the final tutorial material presented at the 2020 ICESat-2 Cryosphere Hackweek. 
+- [LTPy](https://gitlab.eumetsat.int/eumetlab/atmosphere/atmosphere) - Learning tool for Python on Atmospheric Composition Data.
+- [World Glaciers Explorer](https://github.com/OGGM/world-glacier-explorer) - An interactive web application with which you can learn and teach about the world's glaciers.
+- [Water Productivity and Water Accounting using WaPOR](https://github.com/wateraccounting/WAPOROCW) - Jupyter notebooks for Water Accounting and Water Productivity using WaPOR course.
+- [Open Source Geoprocessing Tutorial](https://github.com/patrickcgray/open-geo-tutorial) - Tutorial of fundamental remote sensing and GIS methodologies using open source software in python.
+- [NSIDC-Data-Tutorials](https://github.com/nsidc/NSIDC-Data-Tutorials) - Tutorials and code resources provided by the NASA National Snow and Ice Data Center Distributed Active Archive Center.
+- [NEON Data Skills](https://www.neonscience.org/resources/learning-hub/tutorials) - Provides tutorials and resources for working with scientific data, including that collected by the National Ecological Observatory Network.
+- [EO College](https://eo-college.org/) - This course is part of a series of online learning materials that will give you insights on the potential of remote sensing technologies for applications over land surfaces.
+- [Africa Soil and Agronomy Data Cube](https://gitlab.com/openlandmap/africa-soil-and-agronomy-data-cube) - Accessing and using soil and agronomy data for Africa.
+- [MarineEcosystemsJuliaCon2021.jl](https://github.com/JuliaOcean/MarineEcosystemsJuliaCon2021.jl) - Modeling Marine Ecosystems At Multiple Scales Using Julia.
+- [EDS220_Fall2021](https://github.com/samanthastevenson/EDS220_Fall2021) - Provide an introduction to various environmental data sets, which should give you a good sense of the range of tools out there for manipulating and processing environmental data.
+- [Climate Change Impact Assessment: A practical walk-through](https://claut.gitlab.io/man_ccia/) - Throughout the course of this book, you will learn how to acquire observed historical climate data from Environment and Climate Change Canada, and perform basic analyses of a climate index and meteorological variables.
+- [To Catch The Sun](https://tocatchthesun.com/) - Inspiring stories of communities coming together to harness their own solar energy, and how you can do it too.
