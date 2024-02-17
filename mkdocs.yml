@@ -1,26 +1,33 @@
 site_name: 'Open Sustainable Technology'
 site_url: 'https://opensustain.tech/'
-site_description: 'Open technology projects sustaining stable climate, energy supply and vital natural resources'
+site_description: 'A directory and analysis of the open source ecosystem in the areas of climate change, sustainable energy, biodiversity and natural resources.'
 repo_name: 'protontypes/open-sustainable-technology'
 repo_url: 'https://github.com/protontypes/open-sustainable-technology'
 base_url: 'https://opensustain.tech/'
 edit_uri: ''
 nav:
-  - "Projects": "index.md"
-  - "Community": "community.md"
-  - "Business" : "business.md"
-  - "Education": "education.md"
-  - "Contribute": "contributing.md"
+  - Projects: index.md
+  - Spreadsheet: spreadsheet.md
+  - Education: education.md
+  - Contribute: contributing.md
   - Blog:
+      2023: 
+        - "Connect Developers with Impactful Sustainability Projects" : blog/launch_climate_triage.md
+        - "The Open Source Sustainability Ecosystem"  : blog/the_open_source_sustainability_ecosystem.md
       2022:
+        - "You can preserve the Earth's livability with open source" : blog/you_can_preserve_the_earth_s_livability_with_open_source.md  
         - "Impact and potential of open source on climate technology": blog/impact_and_potential_of_open_source_on_climate_technology.md
         - "Openness as a key indicator for sustainable investment": blog/openness_as_a_key_indicator_for_sustainable_investment.md
       2021:
         - "Open Principles for a Sustainable Technology Transition": blog/open_principles_for_a_sustainable_technology_transition.md
       2020:
         - "Gathering Open Sustainable Technology": blog/gathering_open_sustainable_technology.md
+  - Report: "https://report.opensustain.tech/"
+
+
 theme:
   name: 'material'
+  custom_dir: 'docs/overrides'
   logo: 'logo.png'
   favicon: 'favicon.png'
   palette:
@@ -34,13 +41,14 @@ theme:
     - toc.integrate
     - search.highlight
     - search.suggest
+    - navigation.top
     
-
 extra_css:
     - css/extra.css
 
 markdown_extensions:
   - meta
+  - attr_list
   - md_in_html
   - toc:
       permalink: true
@@ -55,5 +63,3 @@ extra:
       link: https://twitter.com/protontypes
     - icon: fontawesome/brands/linkedin
       link: https://linkedin.com/company/protontypes
-
-copyright: Copyright &copy;  2021 protontypes
